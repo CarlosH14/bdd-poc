@@ -1,0 +1,600 @@
+14:53:46.593 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:53:47.022 [main]  ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: src/test/resources/co.pragma.bdd/Calculadora.feature - no viable alternative at input '\r\n\r\n  @domain\r\n  '
+14:54:08.758 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:54:09.271 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+14:54:10.735 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given input is
+"""
+10
+20
+1
+"""
+no step-definition method match found for: input is
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+14:54:11.776 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:03:35.067 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:03:35.474 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709669015469
+15:03:35.509 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:03:36.677 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:03:36.682 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:03:36.688 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:03:36.689 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:03:36.695 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:03:36.696 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:03:36.702 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:03:37.882 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:04:08.367 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:04:09.081 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709669049074
+15:04:12.014 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:04:12.041 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:04:12.054 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:04:12.074 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:04:14.380 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:09:56.751 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:09:57.492 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709669397479
+15:09:57.560 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:09:59.388 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:09:59.400 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:09:59.418 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:09:59.422 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:09:59.439 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:09:59.441 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:09:59.453 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:10:01.159 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:12:14.627 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:12:15.409 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709669535396
+15:12:17.493 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:12:17.527 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:12:17.543 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:12:17.558 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:12:19.367 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:15:53.352 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:15:53.780 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709669753774
+15:15:53.813 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:15:55.461 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:15:55.496 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:15:55.520 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:15:55.523 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:15:55.577 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:15:55.580 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:15:55.595 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:15:56.937 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:18:27.595 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:18:28.154 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709669908145
+15:18:28.202 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:18:29.841 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:18:29.854 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:18:29.867 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:18:29.869 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:18:29.881 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:18:29.882 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:18:29.893 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:18:31.479 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:19:21.222 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:19:21.747 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709669961740
+15:19:21.788 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:19:23.198 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:19:23.207 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:19:23.217 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:19:23.218 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:19:23.226 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:19:23.227 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:19:23.235 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:19:24.624 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:23:41.960 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:23:42.403 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670222395
+15:23:42.448 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:23:43.788 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:23:43.794 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:23:43.805 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:23:43.806 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:23:43.817 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:23:43.818 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:23:43.827 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:23:45.007 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:24:27.004 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:24:27.446 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670267440
+15:24:27.486 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:24:28.830 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 10
+no step-definition method match found for: primer 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:24:28.838 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:24:28.852 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 15
+no step-definition method match found for: primer 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:24:28.854 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:24:28.865 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 11
+no step-definition method match found for: primer 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:24:28.867 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:24:28.875 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 55
+no step-definition method match found for: primer 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:24:30.180 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:25:09.213 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:25:09.743 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670309734
+15:25:09.782 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:25:10.983 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 10
+no step-definition method match found for: primer 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:25:10.987 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:25:11.006 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 15
+no step-definition method match found for: primer 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:25:11.008 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:25:11.014 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 11
+no step-definition method match found for: primer 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:25:11.016 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:25:11.021 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 55
+no step-definition method match found for: primer 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:25:12.025 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:26:03.667 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:26:04.282 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670364275
+15:26:04.333 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:05.851 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 10
+no step-definition method match found for: primer 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:05.859 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:05.867 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 15
+no step-definition method match found for: primer 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:05.868 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:05.878 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 11
+no step-definition method match found for: primer 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:05.879 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:05.887 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer 55
+no step-definition method match found for: primer 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:07.565 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:26:19.206 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:26:19.687 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670379681
+15:26:19.730 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:21.997 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:22.006 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:22.017 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:22.019 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:22.030 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:22.032 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:22.045 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:23.459 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:26:43.163 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:26:43.620 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670403614
+15:26:43.665 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:45.141 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 10
+no step-definition method match found for: primer numero es 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:45.147 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:45.160 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 15
+no step-definition method match found for: primer numero es 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:45.162 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:45.173 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 11
+no step-definition method match found for: primer numero es 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:45.175 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:26:45.186 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given primer numero es 55
+no step-definition method match found for: primer numero es 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:26:46.407 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:28:14.627 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:28:15.139 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670495132
+15:28:15.184 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:28:16.554 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:28:16.562 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:28:16.576 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:28:16.578 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:28:16.590 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:28:16.591 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:28:16.600 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:28:17.703 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:28:53.279 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:28:53.793 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670533786
+15:28:53.833 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:28:55.246 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:28:55.259 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:28:55.276 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:28:55.277 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:28:55.309 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:28:55.313 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:28:55.344 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:28:56.879 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:30:42.017 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:30:42.428 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670642422
+15:30:42.466 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:30:43.618 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:30:43.626 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:30:43.635 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:30:43.637 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:30:43.647 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:30:43.650 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:30:43.656 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:30:44.821 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:32:25.107 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:32:25.564 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670745559
+15:32:25.607 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:27.008 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:32:27.017 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:27.026 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:32:27.028 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:27.038 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:32:27.040 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:27.051 [main]  ERROR com.intuit.karate - src/test/resources/co.pragma.bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/resources/co.pragma.bdd/Calculadora.feature:8
+15:32:28.666 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/co.pragma.bdd/Calculadora.feature
+15:32:42.053 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:32:42.497 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670762491
+15:32:42.540 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:44.159 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:32:44.166 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:44.181 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:32:44.182 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:44.197 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:32:44.199 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:44.213 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:32:46.251 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/co/pragma/bdd/Calculadora.feature
+15:32:53.086 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:32:53.540 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670773533
+15:32:53.584 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:54.912 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:32:54.919 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:54.931 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:32:54.932 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:54.942 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:32:54.943 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:32:54.952 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:32:56.257 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/co/pragma/bdd/Calculadora.feature
+15:33:34.811 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:33:35.361 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670815352
+15:33:35.407 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:33:37.007 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:33:37.018 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:33:37.035 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:33:37.036 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:33:37.059 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:33:37.062 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:33:37.084 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:33:38.792 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/co/pragma/bdd/Calculadora.feature
+15:33:49.049 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:33:49.575 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670829565
+15:33:49.624 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:33:51.093 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:33:51.099 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:33:51.112 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:33:51.113 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:33:51.125 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:33:51.126 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:33:51.139 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:33:52.673 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/co/pragma/bdd/Calculadora.feature
+15:34:48.960 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:34:49.380 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709670889373
+15:34:49.416 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:34:50.583 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:34:50.588 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:34:50.597 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:34:50.598 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:34:50.609 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:34:50.610 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:34:50.621 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:34:51.756 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/co/pragma/bdd/Calculadora.feature
+15:42:35.180 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:42:35.620 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709671355614
+15:42:35.659 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:42:37.102 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:42:37.108 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:42:37.121 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:42:37.122 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:42:37.131 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:42:37.133 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:42:37.141 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:42:38.378 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/co/pragma/bdd/Calculadora.feature
+15:44:21.429 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:44:21.841 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709671461835
+15:44:21.880 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:44:23.083 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:44:23.093 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:44:23.107 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:44:23.109 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:44:23.121 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:44:23.123 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:44:23.135 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:44:24.455 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/co/pragma/bdd/Calculadora.feature
+15:45:52.329 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:45:52.715 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709671552710
+15:45:53.938 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:45:53.955 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:45:53.966 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:45:53.976 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:45:55.162 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/co/pragma/bdd/Calculadora.feature
+15:48:43.419 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:48:43.994 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1709671723986
+15:48:44.045 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:48:45.583 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 10
+no step-definition method match found for: first number is 10
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:48:45.589 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:48:45.603 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 15
+no step-definition method match found for: first number is 15
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:48:45.604 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:48:45.613 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 11
+no step-definition method match found for: first number is 11
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:48:45.615 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 6
+15:48:45.633 [main]  ERROR com.intuit.karate - src/test/java/co/pragma/bdd/Calculadora.feature:8
+Given first number is 55
+no step-definition method match found for: first number is 55
+src/test/java/co/pragma/bdd/Calculadora.feature:8
+15:48:47.390 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/co/pragma/bdd/Calculadora.feature
